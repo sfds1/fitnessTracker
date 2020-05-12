@@ -1,8 +1,8 @@
-const User = require('./User');
-const Todo = require('./Todo');
+const Workout = require('./workout');
+
 
 module.exports = {
 
-    User,
-    Todo
+    Workout
+
 };

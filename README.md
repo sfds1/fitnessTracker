@@ -1,7 +1,7 @@
 ## Name and live url
 Stephanie Kuo
 Fitness Tracker
-
+https://sfds1.github.io/fitnessTracker/
 
 ## Description
 A consumer will reach their fitness goals quicker when they track their workout progress.
